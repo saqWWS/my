@@ -9,6 +9,7 @@
 #         return 2 * lenght + width
 #
 #
+
 # rectangle = Rectangle()
 # rectangle.area()
 # print(rectangle.area(), rectangle.perimeter())
